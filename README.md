@@ -1,4 +1,4 @@
-# Listagem de cursos com Angular
+# Listagem e edição de cursos com Angular
 
 Projeto da Digital Innovation One com intuito de introduzir conceitos básicos de Angular e consultas HTTP
 
