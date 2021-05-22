@@ -27,3 +27,9 @@ Inicie o servidor node para ter acesso aos cursos (se encontra na pasta src/asse
 ```
 node serve.js
 ```
+
+Inicie o servidor local para rodar a aplicação
+
+```
+ng serve
+```
